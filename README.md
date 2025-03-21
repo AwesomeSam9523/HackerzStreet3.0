@@ -10,7 +10,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**  
    Use your preferred Git client to clone this repository to your local machine.
-2. **Install dependencies**  
+   
+3. **Install dependencies**  
    ```bash
    npm install
    ```
@@ -18,7 +19,7 @@ To set up the project locally, follow these steps:
    ```bash
    yarn install
    ```
-3. **Run the development server**  
+4. **Run the development server**  
    ```bash
    npm run dev
    ```
